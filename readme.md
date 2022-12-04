@@ -16,7 +16,9 @@ Las tecnologías que domino son:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzeArcich&layout=compact)](https://github.com/EzeArcich/github-readme-stats)
 
 📘 Interesado en seguir aprendiendo, más que nada Laravel y tecnologías afines
+
 🎸 Me gusta mucho la música
+
 💪 Tambien ir al gym!
 
 
