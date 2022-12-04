@@ -1,7 +1,9 @@
 
 ![Banner](https://user-images.githubusercontent.com/97700576/205511069-c8d5dfae-a0ba-44f5-9d5d-ae14c08b2aae.png)
 
-:100::raised_hands:Hola, soy Silvio!:100::raised_hands:
+🖐️ Hola, soy Silvio!
+
+🇦🇷 Soy de Buenos aires - Zárate
 
 PHP developer Jr. en CyberArg sistemas 💼 
 
