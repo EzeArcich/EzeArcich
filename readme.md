@@ -1,5 +1,7 @@
 :100::raised_hands:Hola, soy Silvio!:100::raised_hands:
 
+PHP developer Jr. en CyberArg sistemas 💼 
+
 Soy un desarrollador Fullstack en pleno desarrollo, motivado y curioso por aprender nuevas tecnologías y desarrollar proyectos de todo tipo! 
 
 Las tecnologías que domino son:
