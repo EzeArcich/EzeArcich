@@ -3,7 +3,7 @@
 
 🖐️ Hola, soy Silvio!
 
-🇦🇷 Soy de Buenos aires - Zárate
+:argentina: Soy de Buenos aires - Zárate
 
 PHP developer Jr. en CyberArg sistemas 💼 
 
