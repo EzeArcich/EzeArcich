@@ -8,10 +8,8 @@ Las tecnologías que domino son:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,mysql,php,laravel,jquery)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/EzeArcich/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzeArcich&layout=compact)](https://github.com/EzeArcich/github-readme-stats)
 
-
-Querés saber más de mi?
-</a> <a href="[https://www.linkedin.com/in/thomas-guibert](https://www.linkedin.com/in/silvio-arcich-5629841ba)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+Queres saber mas de mi? 🔽🔽🔽🔽
 
 Portfolio -> https://ezearcich.github.io/deploy-portfolio/ :heavy_check_mark:
