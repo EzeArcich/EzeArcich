@@ -1,6 +1,6 @@
-Hola, soy Silvio!
+:100::raised_hands:Hola, soy Silvio!:100::raised_hands:
 
-:100::raised_hands:Soy un desarrollador Fullstack en pleno desarrollo, motivado y curioso por aprender nuevas tecnologías y desarrollar proyectos de todo tipo! :100::raised_hands:
+Soy un desarrollador Fullstack en pleno desarrollo, motivado y curioso por aprender nuevas tecnologías y desarrollar proyectos de todo tipo! 
 
 Las tecnologías que domino son:
 
