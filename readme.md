@@ -12,4 +12,6 @@ Las tecnologías que domino son:
 
 Queres saber mas de mi? 🔽🔽🔽🔽
 
+LinKedin -> <a href="https://www.linkedin.com/in/silvio-arcich-5629841ba/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+
 Portfolio -> https://ezearcich.github.io/deploy-portfolio/ :heavy_check_mark:
