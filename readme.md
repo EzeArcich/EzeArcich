@@ -4,8 +4,4 @@ Soy un desarrollador Fullstack en pleno desarrollo, motivado y curioso por apren
 
 Las tecnologías que domino son:
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,php,laravel,jquerymysql)](https://skillicons.dev)
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
