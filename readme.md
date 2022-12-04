@@ -1,6 +1,5 @@
 
-![Banner](https://user-images.githubusercontent.com/97700576/205509771-f1c77b5f-f6c0-4097-ace8-4d373abe08ef.png)
-
+![Banner](https://user-images.githubusercontent.com/97700576/205511069-c8d5dfae-a0ba-44f5-9d5d-ae14c08b2aae.png)
 
 :100::raised_hands:Hola, soy Silvio!:100::raised_hands:
 
