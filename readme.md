@@ -5,7 +5,7 @@
 
 :argentina: Soy de Buenos aires - Zárate
 
-PHP developer Jr. en CyberArg sistemas 💼 
+PHP developer en CyberArg sistemas 💼 
 
 Soy un desarrollador Fullstack en pleno desarrollo, motivado y curioso por aprender nuevas tecnologías y desarrollar proyectos de todo tipo! 
 
