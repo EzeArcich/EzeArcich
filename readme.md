@@ -7,7 +7,7 @@
 
 PHP developer en CyberArg sistemas 💼 
 
-Soy un desarrollador Fullstack en pleno desarrollo, motivado y curioso por aprender nuevas tecnologías y desarrollar proyectos de todo tipo! 
+Soy un desarrollador Fullstack, interesado en aprender tecnologías y desarrollar proyectos de todo tipo! 
 
 Las tecnologías que domino son:
 
