@@ -1,5 +1,5 @@
 
-![Banner](https://user-images.githubusercontent.com/97700576/205511069-c8d5dfae-a0ba-44f5-9d5d-ae14c08b2aae.png)
+![Banner](https://github.com/EzeArcich/EzeArcich/blob/main/Developer.png)
 
 🖐️ Hola, soy Silvio!
 
