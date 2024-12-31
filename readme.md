@@ -5,9 +5,9 @@
 
 :argentina: Soy de Buenos aires - Zárate
 
-PHP developer en CyberArg sistemas 💼 
+Backend Developer con PHP 💼 
 
-Soy un desarrollador Fullstack, interesado en aprender tecnologías y desarrollar proyectos de todo tipo! 
+Soy un desarrollador interesado en aprender tecnologías y desarrollar proyectos de todo tipo! 
 
 Las tecnologías que domino son:
 
