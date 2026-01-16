@@ -14,6 +14,5 @@ Working with Livewire, WebSockets, and real-time features
 
 Building and maintaining production applications
 
-Links
 
 LinkedIn: https://www.linkedin.com/in/silvio-arcich-5629841ba/
