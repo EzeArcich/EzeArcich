@@ -1,8 +1,10 @@
 Hi, I'm Silvio 👋
 
-Backend Developer from 🇦🇷 Argentina, specialized in PHP & Laravel.
-I build scalable backend systems, APIs, dashboards, and real-time applications.
-Focused on clean code, maintainability, and solving real business problems.
+Backend Engineer focused on building SaaS and marketplace platforms with real-world integrations and event-driven workflows.
+I’ve developed and maintained production systems handling multi-user environments, marketplace operations (buyers, sellers, cart, backoffice), and complex external integrations. I’ve also built a SaaS platform from scratch integrating MercadoLibre and other third-party services, processing continuous webhooks and managing multi-account, real-time communication flows.
+My work includes API design, asynchronous job processing, webhook reliability, cross-channel customer association, and metric-driven dashboards. I design backend systems that support real business operations and scale with growing usage.
+Experience includes third-party integrations such as MercadoLibre, WhatsApp, Nosis, Equifax, InfoAuto, and AFIP.
+I work primarily with Laravel, PHP, MySQL and CI/CD pipelines, with hands-on experience deploying and maintaining Linux-based production environments.
 
 Tech Stack
 
