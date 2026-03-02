@@ -12,7 +12,7 @@ Tech Stack
 
 Deepening knowledge in Laravel ecosystem
 
-Working with Livewire, WebSockets, and real-time features
+Working with real-time features
 
 Building and maintaining production applications
 
