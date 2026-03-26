@@ -1,10 +1,12 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=58A6FF&lines=Backend+Developer;Laravel+Engineer;API+Integrations;SaaS+Systems;Real-world+software)
+
 # Hi, I'm Ezequiel Arcich 👋
 
 Backend Developer focused on building real-world systems, integrations and SaaS-style applications.  
 I enjoy designing reliable backends, working with external APIs, and building software that solves operational problems for businesses.
 
-💻 Main stack: PHP / Laravel / MySQL / REST APIs / Vue / Queues / Integrations  
-⚙️ Experience with SaaS, marketplaces, webhooks, automation, dashboards and internal tools  
+💻 PHP / Laravel / MySQL / Vue / REST APIs / Queues / Integrations  
+⚙️ SaaS · Marketplaces · Webhooks · Automation · Dashboards  
 🌎 Open to freelance / remote backend work
 
 
@@ -20,20 +22,19 @@ Backend API built with Laravel for a helpdesk / inbox system designed to be cons
 - REST API
 - Authentication & roles
 - Event-driven notifications
-- Ready for frontend / mobile integration
 - Clean backend structure
+- Ready for frontend / mobile
 
 👉 https://github.com/EzeArcich/HelpDesk_Tiny
 
 
 ### HelpDesk Tiny Vue (Frontend)
 
-Frontend client built with Vue consuming the HelpDesk backend API.
+Vue frontend consuming HelpDesk API.
 
 - Vue SPA
 - API consumption
-- Real-time style workflow
-- Ticket / message interface
+- Ticket / message workflow
 - Component-based structure
 
 👉 https://github.com/EzeArcich/HelpDesk_Tiny-Vue
@@ -41,78 +42,62 @@ Frontend client built with Vue consuming the HelpDesk backend API.
 
 ### WeatherPulse API
 
-Weather integration API built with Laravel, including caching, scheduler, snapshots and clean architecture.
+Weather integration API with scheduler, cache and snapshots.
 
 - External API integration
 - Queue jobs & scheduler
 - Cache layer
-- Layered architecture
 - Idempotent operations
+- Layered architecture
 
 👉 https://github.com/EzeArcich/WeatherPulse-API
 
 
 ### DailyPro
 
-Task / productivity backend with integrations and modular architecture.
+Task / productivity backend with integrations.
 
 - OpenAI integration
 - Google Calendar integration
 - Trello integration
-- Modular backend
 - Event-driven logic
+- Modular backend
 
 👉 https://github.com/EzeArcich/DailyPro
 
 
-
 ---
 
-## 🧠 What I like building
+## 🧠 What I build
 
-- Backend systems for SaaS products
-- API integrations (payments, marketplaces, external services)
-- Multi-account / multi-tenant platforms
-- Internal tools for companies
-- Automation & background jobs
+- Backend systems for SaaS
+- API integrations
+- Multi-account platforms
+- Internal tools
+- Automation / jobs / queues
 - Real-time notifications
-- Dashboards and operational panels
-- Systems that run in production
+- Dashboards / panels
+- Production-ready systems
 
 
 ---
 
-## 🧱 Architecture & practices I care about
+## 🧱 Production experience
 
-- Clean architecture / layered structure
-- Idempotency & retry-safe operations
-- Queues, jobs and schedulers
-- Webhooks & external events
-- Logging & observability
-- API design
-- Database design
-- Long-term maintainability
-- Production-ready code
-
-
----
-
-## ⚙️ Production experience
-
-- Linux servers administration
+- Linux servers
 - Laravel Forge
 - VPS / domains / SSL / Nginx
-- CI/CD with GitHub Actions & Bitbucket Pipelines
+- CI/CD (GitHub Actions / Bitbucket Pipelines)
 - Deploy with Forge
-- Logs with Laravel channels, BetterStack, Sentry
-- Monitoring & debugging in production
 - Queue workers & schedulers
-- Real production environments
+- Logs (Laravel / BetterStack / Sentry)
+- Debugging in production
+- Real SaaS / marketplace environments
 
 
 ---
 
-## 🔌 Integrations experience
+## 🔌 Integrations
 
 - MercadoLibre API
 - WhatsApp API
@@ -121,8 +106,8 @@ Task / productivity backend with integrations and modular architecture.
 - Tokko API
 - Google Maps API
 - Payment gateways
-- External REST APIs
 - Webhooks
+- External REST APIs
 
 
 ---
@@ -140,12 +125,30 @@ Forge · CI/CD · APIs
 
 ---
 
+## 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EzeArcich&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzeArcich&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=EzeArcich&theme=tokyonight)
+
+
+---
+
+## 🛠 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,tailwind,bootstrap,alpinejs,jquery,mysql,redis,docker,git,githubactions,bitbucket,linux,nginx,postman,vscode)](https://skillicons.dev)
+
+
+---
+
 ## 📬 Contact
 
 Open to freelance projects, backend roles, SaaS development or integrations.
 
-LinkedIn: https://www.linkedin.com/in/silvio-arcich-5629841ba/  
-GitHub: https://github.com/EzeArcich
+LinkedIn:  
+https://www.linkedin.com/in/silvio-arcich-5629841ba/
 
-
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,tailwind,bootstrap,alpinejs,jquery,mysql,redis,docker,git,linux,nginx)](https://skillicons.dev)
+GitHub:  
+https://github.com/EzeArcich
