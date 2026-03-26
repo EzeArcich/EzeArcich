@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EzeArcich/EzeArcich/refs/heads/main/banner.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/EzeArcich/EzeArcich/refs/heads/main/banner2.png" width="700"/>
 </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=58A6FF&lines=Backend+Developer;Laravel+Engineer;API+Integrations;SaaS+Systems;Real-world+software)
