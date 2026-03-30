@@ -53,7 +53,7 @@ Weather integration API with scheduler, cache and snapshots.
 👉 https://github.com/EzeArcich/WeatherPulse-API
 
 
-### DailyPro
+### TaskForge
 
 Task / productivity backend with integrations.
 
@@ -63,7 +63,7 @@ Task / productivity backend with integrations.
 - Event-driven logic
 - Modular backend
 
-👉 https://github.com/EzeArcich/DailyPro
+👉 https://github.com/EzeArcich/TaskForge
 
 
 ---
